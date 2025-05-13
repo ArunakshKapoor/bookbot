@@ -34,12 +34,13 @@ The 't' character was found 1982 times
 ---
 
 ## 🏗️ Project Structure
+```
 bookbot/
+├── main.py           # Main script that runs the analysis
 ├── books/
-│ └── frankenstein.txt # Sample book text
-├── main.py # Main script with analysis logic
-├── README.md # Project documentation
-
+│   └── frankenstein.txt  # Sample input text (public domain)
+├── README.md         # Project documentation
+```
 
 ---
 
